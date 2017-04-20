@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: studentdb004
+  host: studentdb004
+  disk_quota: 1024M
